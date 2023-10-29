@@ -1,0 +1,10 @@
+# ignore ALL .cbp files
+*.cbp
+
+# ignore ALL .depend files
+*.depend
+
+
+# ignore ALL files in ANY directory named...
+obj/
+bin/
