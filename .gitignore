@@ -8,3 +8,7 @@
 # ignore ALL files in ANY directory named...
 obj/
 bin/
+
+# ignore ALL .layout files
+
+*.layout
